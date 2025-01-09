@@ -4265,12 +4265,6 @@
 		(uuid "33086ed7-93d9-4a33-b4bf-a134865fdbd8")
 	)
 	(junction
-		(at 160.02 152.4)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "43ca23fc-7762-4aa0-b82d-77d5d988ecc3")
-	)
-	(junction
 		(at 208.28 160.02)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4771,16 +4765,6 @@
 			(type default)
 		)
 		(uuid "4dca0e2b-37ea-4b8f-89eb-00559cefc60f")
-	)
-	(wire
-		(pts
-			(xy 152.4 152.4) (xy 160.02 152.4)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "50bd25c4-ca65-40ae-abef-be6ada5f2342")
 	)
 	(wire
 		(pts
@@ -5404,7 +5388,7 @@
 	)
 	(wire
 		(pts
-			(xy 309.88 86.36) (xy 330.2 86.36)
+			(xy 309.88 86.36) (xy 320.04 86.36)
 		)
 		(stroke
 			(width 0)
@@ -5584,7 +5568,7 @@
 	)
 	(wire
 		(pts
-			(xy 309.88 127) (xy 330.2 127)
+			(xy 309.88 127) (xy 320.04 127)
 		)
 		(stroke
 			(width 0)
@@ -5863,14 +5847,14 @@
 		)
 		(uuid "43af64cf-39ba-4af7-a930-c51781fbafb4")
 	)
-	(label "ADP1032_VOUT1"
-		(at 293.37 86.36 180)
+	(label "VOUT1"
+		(at 283.21 86.36 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right bottom)
+			(justify left bottom)
 		)
 		(uuid "4be69f9c-169b-4bb0-9466-bdbdade0f177")
 	)
@@ -5908,7 +5892,7 @@
 		(uuid "6a557d1b-7f55-4efe-acbc-f1c5c190872b")
 	)
 	(label "VDD_24V"
-		(at 327.66 86.36 180)
+		(at 320.04 86.36 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6095,7 +6079,7 @@
 		(uuid "eae3f8a0-13ed-4d9b-91f5-5f951bb208a4")
 	)
 	(label "3V3_ISO"
-		(at 327.66 127 180)
+		(at 320.04 127 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6126,48 +6110,6 @@
 			(justify left bottom)
 		)
 		(uuid "ff7e03e6-a908-4940-999a-919d0e2bfeae")
-	)
-	(hierarchical_label "3V3_ISO"
-		(shape output)
-		(at 330.2 127 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-				(thickness 0.254)
-				(bold yes)
-			)
-			(justify left)
-		)
-		(uuid "34d93672-d0b6-4aa9-ae6c-dc031cf5d441")
-	)
-	(hierarchical_label "VDD_24V"
-		(shape output)
-		(at 330.2 86.36 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-				(thickness 0.254)
-				(bold yes)
-			)
-			(justify left)
-		)
-		(uuid "71e89da9-cccb-496a-889e-bf59616e8629")
-	)
-	(hierarchical_label "MVDD"
-		(shape input)
-		(at 152.4 152.4 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-				(thickness 0.254)
-				(bold yes)
-			)
-			(justify right)
-		)
-		(uuid "cbfe5c8c-9d58-4daa-9a42-449354343894")
 	)
 	(symbol
 		(lib_id "UNITED_TEST_POINTS:TestPoint_Castelated")
