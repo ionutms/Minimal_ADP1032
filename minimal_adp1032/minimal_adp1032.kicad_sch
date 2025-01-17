@@ -5495,7 +5495,6 @@
 	)
 	(label "VOUT2"
 		(at 289.56 127 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5506,7 +5505,6 @@
 	)
 	(label "SW2"
 		(at 242.57 132.08 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5517,7 +5515,6 @@
 	)
 	(label "SI"
 		(at 271.78 204.47 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5528,7 +5525,6 @@
 	)
 	(label "3V3_ISO"
 		(at 243.84 165.1 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5539,7 +5535,6 @@
 	)
 	(label "SCK"
 		(at 243.84 182.88 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5550,7 +5545,6 @@
 	)
 	(label "3V3_ISO"
 		(at 292.1 181.61 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5561,7 +5555,6 @@
 	)
 	(label "MGPI1"
 		(at 213.36 172.72 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5572,7 +5565,6 @@
 	)
 	(label "3V3_ISO"
 		(at 243.84 154.94 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5583,7 +5575,6 @@
 	)
 	(label "SPGO1"
 		(at 271.78 199.39 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5594,7 +5585,6 @@
 	)
 	(label "SO"
 		(at 243.84 187.96 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5605,7 +5595,6 @@
 	)
 	(label "SI"
 		(at 243.84 185.42 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5616,7 +5605,6 @@
 	)
 	(label "VOUT1"
 		(at 283.21 86.36 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5627,7 +5615,6 @@
 	)
 	(label "MGPI2"
 		(at 213.36 175.26 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5638,7 +5625,6 @@
 	)
 	(label "MGPO3"
 		(at 213.36 177.8 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5649,7 +5635,6 @@
 	)
 	(label "VINP"
 		(at 186.69 86.36 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5660,7 +5645,6 @@
 	)
 	(label "VDD_24V"
 		(at 320.04 86.36 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5671,7 +5655,6 @@
 	)
 	(label "MVDD"
 		(at 182.88 121.92 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5682,7 +5665,6 @@
 	)
 	(label "~{MSS}"
 		(at 213.36 190.5 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5693,7 +5675,6 @@
 	)
 	(label "SLEW"
 		(at 213.36 124.46 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5704,7 +5685,6 @@
 	)
 	(label "MI"
 		(at 213.36 187.96 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5715,7 +5695,6 @@
 	)
 	(label "SWP"
 		(at 217.17 96.52 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5726,7 +5705,6 @@
 	)
 	(label "SCK"
 		(at 271.78 196.85 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5737,7 +5715,6 @@
 	)
 	(label "3V3_ISO"
 		(at 312.42 181.61 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5748,7 +5725,6 @@
 	)
 	(label "SGPI3"
 		(at 271.78 201.93 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5759,7 +5735,6 @@
 	)
 	(label "MVDD"
 		(at 199.39 152.4 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5770,7 +5745,6 @@
 	)
 	(label "~{SSS}"
 		(at 243.84 190.5 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5781,7 +5755,6 @@
 	)
 	(label "SGPI3"
 		(at 243.84 177.8 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5792,7 +5765,6 @@
 	)
 	(label "MCK"
 		(at 213.36 182.88 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5803,7 +5775,6 @@
 	)
 	(label "MO"
 		(at 213.36 185.42 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5814,7 +5785,6 @@
 	)
 	(label "SO"
 		(at 271.78 209.55 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5825,7 +5795,6 @@
 	)
 	(label "SPGO2"
 		(at 271.78 207.01 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5836,7 +5805,6 @@
 	)
 	(label "SPGO2"
 		(at 243.84 175.26 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5847,7 +5815,6 @@
 	)
 	(label "3V3_ISO"
 		(at 320.04 127 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5858,7 +5825,6 @@
 	)
 	(label "3V3_ISO"
 		(at 302.26 181.61 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5869,7 +5835,6 @@
 	)
 	(label "SPGO1"
 		(at 243.84 172.72 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
