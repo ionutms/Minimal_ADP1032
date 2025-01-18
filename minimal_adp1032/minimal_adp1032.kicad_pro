@@ -66,7 +66,7 @@
         "annular_width": "error",
         "clearance": "error",
         "connection_width": "warning",
-        "copper_edge_clearance": "error",
+        "copper_edge_clearance": "ignore",
         "copper_sliver": "warning",
         "courtyards_overlap": "error",
         "diff_pair_gap_out_of_range": "error",
@@ -129,7 +129,7 @@
         "min_text_thickness": 0.1524,
         "min_through_hole_diameter": 0.254,
         "min_track_width": 0.0,
-        "min_via_annular_width": 0.1,
+        "min_via_annular_width": 0.0,
         "min_via_diameter": 0.5,
         "solder_mask_to_copper_clearance": 0.0,
         "use_height_for_length_calcs": true
@@ -494,7 +494,7 @@
       "specctra_dsn": "",
       "step": "../../../../Downloads/minimal_adp1032.step",
       "svg": "",
-      "vrml": ""
+      "vrml": "../../../../Downloads/minimal_adp1032.wrl"
     },
     "page_layout_descr_file": ""
   },
