@@ -1552,6 +1552,16 @@
 					(hide yes)
 				)
 			)
+			(property "MPN" "ADP1032ACPZ-5-R7"
+				(at 10.16 -53.34 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
 			(symbol "U_ADP1032ACPZ-5-R7_0_1"
 				(pin output line
 					(at -12.7 -27.94 0)
@@ -12665,6 +12675,16 @@
 		)
 		(property "Description" "Two-Channel, Isolated Micropower Management Unit with Seven Digital Isolators"
 			(at 162.56 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "MPN" "ADP1032ACPZ-5-R7"
+			(at 162.56 162.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
