@@ -494,7 +494,7 @@
       "specctra_dsn": "",
       "step": "../../../../Downloads/minimal_adp1032.step",
       "svg": "",
-      "vrml": "../../../../Downloads/minimal_adp1032.wrl"
+      "vrml": "minimal_adp1032.wrl"
     },
     "page_layout_descr_file": ""
   },
