@@ -37,9 +37,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.0,
-          "height": 0.762,
-          "width": 0.2032
+          "drill": 0.8,
+          "height": 1.0,
+          "width": 1.0
         },
         "silk_line_width": 0.1,
         "silk_text_italic": false,
@@ -471,15 +471,16 @@
       "version": 3
     },
     "net_colors": {
+      "/3V3": "rgb(0, 132, 132)",
       "/3V3_ISO": "rgb(0, 132, 132)",
-      "/MVDD": "rgb(194, 194, 0)",
+      "/MVDD": "rgb(255, 0, 255)",
       "/VDD_24V": "rgb(132, 0, 132)",
       "/VINP": "rgb(0, 194, 0)",
       "/VOUT1": "rgb(194, 0, 194)",
       "/VOUT2": "rgb(0, 194, 194)",
       "GND": "rgb(132, 132, 132)",
       "GNDA": "rgb(72, 72, 72)",
-      "GNDD": "rgb(194, 194, 194)"
+      "GNDD": "rgb(128, 77, 0)"
     },
     "netclass_assignments": null,
     "netclass_patterns": []
