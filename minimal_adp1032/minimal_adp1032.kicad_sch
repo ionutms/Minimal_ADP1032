@@ -729,7 +729,7 @@
 					(justify left)
 				)
 			)
-			(property "Footprint" "capacitor_footprints:C_1210_3225Metric"
+			(property "Footprint" "capacitor_footprints:C_1210_200_3225Metric"
 				(at 0 -7.62 0)
 				(show_name)
 				(effects
@@ -751,7 +751,7 @@
 					(hide yes)
 				)
 			)
-			(property "Description" "CAP SMD 4.7 µF X7S 10% 1210 100V"
+			(property "Description" "CAP SMD 4.7 µF X7S 10% 1210_200 100V"
 				(at 0 -12.7 0)
 				(show_name)
 				(effects
@@ -762,7 +762,7 @@
 					(hide yes)
 				)
 			)
-			(property "Case Code - in" "1210"
+			(property "3dviewer Link" "https://3dviewer.net/index.html#model=https://github.com/ionutms/KiCAD_Symbols_Generator/blob/main/3D_models/C_1210.step"
 				(at 0 -15.24 0)
 				(show_name)
 				(effects
@@ -773,7 +773,7 @@
 					(hide yes)
 				)
 			)
-			(property "Case Code - mm" "3225"
+			(property "Capacitor Type" "Ceramic"
 				(at 0 -17.78 0)
 				(show_name)
 				(effects
@@ -784,7 +784,7 @@
 					(hide yes)
 				)
 			)
-			(property "Dielectric" "X7S"
+			(property "Case Code - in" "1210_200"
 				(at 0 -20.32 0)
 				(show_name)
 				(effects
@@ -795,7 +795,7 @@
 					(hide yes)
 				)
 			)
-			(property "MPN" "GCM32DC72A475KE02K"
+			(property "Case Code - mm" "3225"
 				(at 0 -22.86 0)
 				(show_name)
 				(effects
@@ -806,7 +806,7 @@
 					(hide yes)
 				)
 			)
-			(property "Manufacturer" "Murata Electronics"
+			(property "Dielectric" "X7S"
 				(at 0 -25.4 0)
 				(show_name)
 				(effects
@@ -817,7 +817,7 @@
 					(hide yes)
 				)
 			)
-			(property "Series" "GCM32D"
+			(property "MPN" "GCM32DC72A475KE02K"
 				(at 0 -27.94 0)
 				(show_name)
 				(effects
@@ -828,7 +828,7 @@
 					(hide yes)
 				)
 			)
-			(property "Symbol Name" "C_GCM32DC72A475KE02K"
+			(property "Manufacturer" "Murata Electronics"
 				(at 0 -30.48 0)
 				(show_name)
 				(effects
@@ -839,7 +839,7 @@
 					(hide yes)
 				)
 			)
-			(property "Tolerance" "10%"
+			(property "Series" "GCM32DC72A"
 				(at 0 -33.02 0)
 				(show_name)
 				(effects
@@ -850,7 +850,7 @@
 					(hide yes)
 				)
 			)
-			(property "Trustedparts Search" "https://www.trustedparts.com/en/search/GCM32DC72A475KE02K"
+			(property "Symbol Name" "C_GCM32DC72A475KE02K"
 				(at 0 -35.56 0)
 				(show_name)
 				(effects
@@ -861,8 +861,30 @@
 					(hide yes)
 				)
 			)
-			(property "Voltage Rating" "100V"
+			(property "Tolerance" "10%"
 				(at 0 -38.1 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Trustedparts Search" "https://www.trustedparts.com/en/search/GCM32DC72A475KE02K"
+				(at 0 -40.64 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Voltage Rating" "100V"
+				(at 0 -43.18 0)
 				(show_name)
 				(effects
 					(font
@@ -14983,7 +15005,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "capacitor_footprints:C_1210_3225Metric"
+		(property "Footprint" "capacitor_footprints:C_1210_200_3225Metric"
 			(at 99.06 41.91 0)
 			(show_name yes)
 			(effects
@@ -15005,7 +15027,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "CAP SMD 4.7 µF X7S 10% 1210 100V"
+		(property "Description" "CAP SMD 4.7 µF X7S 10% 1210_200 100V"
 			(at 93.98 41.91 0)
 			(show_name yes)
 			(effects
@@ -15016,7 +15038,7 @@
 				(hide yes)
 			)
 		)
-		(property "Case Code - in" "1210"
+		(property "Case Code - in" "1210_200"
 			(at 91.44 41.91 0)
 			(show_name yes)
 			(effects
@@ -15071,7 +15093,7 @@
 				(hide yes)
 			)
 		)
-		(property "Series" "GCM32D"
+		(property "Series" "GCM32DC72A"
 			(at 78.74 41.91 0)
 			(show_name yes)
 			(effects
@@ -15122,6 +15144,26 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+				(hide yes)
+			)
+		)
+		(property "3dviewer Link" "https://3dviewer.net/index.html#model=https://github.com/ionutms/KiCAD_Symbols_Generator/blob/main/3D_models/C_1210.step"
+			(at 91.44 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Capacitor Type" "Ceramic"
+			(at 88.9 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 				(hide yes)
 			)
 		)
