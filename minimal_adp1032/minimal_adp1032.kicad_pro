@@ -514,7 +514,7 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "../../../../Downloads/minimal_adp1032.step",
+      "step": ".glb",
       "svg": "",
       "vrml": "minimal_adp1032.wrl"
     },
