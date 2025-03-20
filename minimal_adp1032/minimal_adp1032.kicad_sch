@@ -63,7 +63,7 @@
 					(hide yes)
 				)
 			)
-			(property "Case Code - in" "0603"
+			(property "3dviewer Link" "https://3dviewer.net/index.html#model=https://github.com/ionutms/KiCAD_Symbols_Generator/blob/main/3D_models/C_0603.step"
 				(at 0 -15.24 0)
 				(show_name)
 				(effects
@@ -74,7 +74,7 @@
 					(hide yes)
 				)
 			)
-			(property "Case Code - mm" "1608"
+			(property "Capacitor Type" "Ceramic"
 				(at 0 -17.78 0)
 				(show_name)
 				(effects
@@ -85,7 +85,7 @@
 					(hide yes)
 				)
 			)
-			(property "Dielectric" "X7S"
+			(property "Case Code - in" "0603"
 				(at 0 -20.32 0)
 				(show_name)
 				(effects
@@ -96,7 +96,7 @@
 					(hide yes)
 				)
 			)
-			(property "MPN" "C1608X7S1A475K080AC"
+			(property "Case Code - mm" "1608"
 				(at 0 -22.86 0)
 				(show_name)
 				(effects
@@ -107,7 +107,7 @@
 					(hide yes)
 				)
 			)
-			(property "Manufacturer" "TDK"
+			(property "Dielectric" "X7S"
 				(at 0 -25.4 0)
 				(show_name)
 				(effects
@@ -118,7 +118,7 @@
 					(hide yes)
 				)
 			)
-			(property "Series" "C1608X7S1A"
+			(property "MPN" "C1608X7S1A475K080AC"
 				(at 0 -27.94 0)
 				(show_name)
 				(effects
@@ -129,7 +129,7 @@
 					(hide yes)
 				)
 			)
-			(property "Symbol Name" "C_C1608X7S1A475K080AC"
+			(property "Manufacturer" "TDK"
 				(at 0 -30.48 0)
 				(show_name)
 				(effects
@@ -140,7 +140,7 @@
 					(hide yes)
 				)
 			)
-			(property "Tolerance" "10%"
+			(property "Series" "C1608X7S1A"
 				(at 0 -33.02 0)
 				(show_name)
 				(effects
@@ -151,7 +151,7 @@
 					(hide yes)
 				)
 			)
-			(property "Trustedparts Search" "https://www.trustedparts.com/en/search/C1608X7S1A475K080AC"
+			(property "Symbol Name" "C_C1608X7S1A475K080AC"
 				(at 0 -35.56 0)
 				(show_name)
 				(effects
@@ -162,8 +162,30 @@
 					(hide yes)
 				)
 			)
-			(property "Voltage Rating" "10V"
+			(property "Tolerance" "10%"
 				(at 0 -38.1 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Trustedparts Search" "https://www.trustedparts.com/en/search/C1608X7S1A475K080AC"
+				(at 0 -40.64 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Voltage Rating" "10V"
+				(at 0 -43.18 0)
 				(show_name)
 				(effects
 					(font
@@ -297,7 +319,7 @@
 					(hide yes)
 				)
 			)
-			(property "Case Code - in" "1206"
+			(property "3dviewer Link" "https://3dviewer.net/index.html#model=https://github.com/ionutms/KiCAD_Symbols_Generator/blob/main/3D_models/C_1206.step"
 				(at 0 -15.24 0)
 				(show_name)
 				(effects
@@ -308,7 +330,7 @@
 					(hide yes)
 				)
 			)
-			(property "Case Code - mm" "3216"
+			(property "Capacitor Type" "Ceramic"
 				(at 0 -17.78 0)
 				(show_name)
 				(effects
@@ -319,7 +341,7 @@
 					(hide yes)
 				)
 			)
-			(property "Dielectric" "X7R"
+			(property "Case Code - in" "1206"
 				(at 0 -20.32 0)
 				(show_name)
 				(effects
@@ -330,7 +352,7 @@
 					(hide yes)
 				)
 			)
-			(property "MPN" "CL31B106KBHNNN#"
+			(property "Case Code - mm" "3216"
 				(at 0 -22.86 0)
 				(show_name)
 				(effects
@@ -341,7 +363,7 @@
 					(hide yes)
 				)
 			)
-			(property "Manufacturer" "Samsung Electro-Mechanics"
+			(property "Dielectric" "X7R"
 				(at 0 -25.4 0)
 				(show_name)
 				(effects
@@ -352,7 +374,7 @@
 					(hide yes)
 				)
 			)
-			(property "Series" "CL31"
+			(property "MPN" "CL31B106KBHNNN#"
 				(at 0 -27.94 0)
 				(show_name)
 				(effects
@@ -363,7 +385,7 @@
 					(hide yes)
 				)
 			)
-			(property "Symbol Name" "C_CL31B106KBHNNN#"
+			(property "Manufacturer" "Samsung Electro-Mechanics"
 				(at 0 -30.48 0)
 				(show_name)
 				(effects
@@ -374,7 +396,7 @@
 					(hide yes)
 				)
 			)
-			(property "Tolerance" "10%"
+			(property "Series" "CL31B"
 				(at 0 -33.02 0)
 				(show_name)
 				(effects
@@ -385,7 +407,7 @@
 					(hide yes)
 				)
 			)
-			(property "Trustedparts Search" "https://www.trustedparts.com/en/search/CL31/CL31B106KBHNNN#"
+			(property "Symbol Name" "C_CL31B106KBHNNN#"
 				(at 0 -35.56 0)
 				(show_name)
 				(effects
@@ -396,8 +418,30 @@
 					(hide yes)
 				)
 			)
-			(property "Voltage Rating" "50V"
+			(property "Tolerance" "10%"
 				(at 0 -38.1 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Trustedparts Search" "https://www.trustedparts.com/en/search/CL31/CL31B106KBHNNN#"
+				(at 0 -40.64 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Voltage Rating" "50V"
+				(at 0 -43.18 0)
 				(show_name)
 				(effects
 					(font
@@ -531,7 +575,7 @@
 					(hide yes)
 				)
 			)
-			(property "Case Code - in" "0402"
+			(property "3dviewer Link" "https://3dviewer.net/index.html#model=https://github.com/ionutms/KiCAD_Symbols_Generator/blob/main/3D_models/C_0402.step"
 				(at 0 -15.24 0)
 				(show_name)
 				(effects
@@ -542,7 +586,7 @@
 					(hide yes)
 				)
 			)
-			(property "Case Code - mm" "1005"
+			(property "Capacitor Type" "Ceramic"
 				(at 0 -17.78 0)
 				(show_name)
 				(effects
@@ -553,7 +597,7 @@
 					(hide yes)
 				)
 			)
-			(property "Dielectric" "X7R"
+			(property "Case Code - in" "0402"
 				(at 0 -20.32 0)
 				(show_name)
 				(effects
@@ -564,7 +608,7 @@
 					(hide yes)
 				)
 			)
-			(property "MPN" "GCM155R71H104KE02D"
+			(property "Case Code - mm" "1005"
 				(at 0 -22.86 0)
 				(show_name)
 				(effects
@@ -575,7 +619,7 @@
 					(hide yes)
 				)
 			)
-			(property "Manufacturer" "Murata Electronics"
+			(property "Dielectric" "X7R"
 				(at 0 -25.4 0)
 				(show_name)
 				(effects
@@ -586,7 +630,7 @@
 					(hide yes)
 				)
 			)
-			(property "Series" "GCM155"
+			(property "MPN" "GCM155R71H104KE02D"
 				(at 0 -27.94 0)
 				(show_name)
 				(effects
@@ -597,7 +641,7 @@
 					(hide yes)
 				)
 			)
-			(property "Symbol Name" "C_GCM155R71H104KE02D"
+			(property "Manufacturer" "Murata Electronics"
 				(at 0 -30.48 0)
 				(show_name)
 				(effects
@@ -608,7 +652,7 @@
 					(hide yes)
 				)
 			)
-			(property "Tolerance" "10%"
+			(property "Series" "GCM155R71H"
 				(at 0 -33.02 0)
 				(show_name)
 				(effects
@@ -619,7 +663,7 @@
 					(hide yes)
 				)
 			)
-			(property "Trustedparts Search" "https://www.trustedparts.com/en/search/GCM155R71H104KE02D"
+			(property "Symbol Name" "C_GCM155R71H104KE02D"
 				(at 0 -35.56 0)
 				(show_name)
 				(effects
@@ -630,8 +674,30 @@
 					(hide yes)
 				)
 			)
-			(property "Voltage Rating" "50V"
+			(property "Tolerance" "10%"
 				(at 0 -38.1 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Trustedparts Search" "https://www.trustedparts.com/en/search/GCM155R71H104KE02D"
+				(at 0 -40.64 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Voltage Rating" "50V"
+				(at 0 -43.18 0)
 				(show_name)
 				(effects
 					(font
@@ -1828,7 +1894,7 @@
 					(hide yes)
 				)
 			)
-			(property "Description" "DIODE SMD 100.0 V"
+			(property "Description" "Schottky SMD 100.0 V"
 				(at 0 -12.7 0)
 				(show_name)
 				(effects
@@ -2016,7 +2082,7 @@
 					(hide yes)
 				)
 			)
-			(property "Description" "DIODE SMD 62.0 V"
+			(property "Description" "Zener SMD 62.0 V"
 				(at 0 -12.7 0)
 				(show_name)
 				(effects
@@ -2204,7 +2270,7 @@
 					(hide yes)
 				)
 			)
-			(property "Description" "DIODE SMD 200.0 V"
+			(property "Description" "Rectifier SMD 200.0 V"
 				(at 0 -12.7 0)
 				(show_name)
 				(effects
@@ -4023,7 +4089,7 @@
 					(hide yes)
 				)
 			)
-			(property "Case Code - in" "0402"
+			(property "3dviewer Link" "https://3dviewer.net/index.html#model=https://github.com/ionutms/KiCAD_Symbols_Generator/blob/main/3D_models/R_0402.step"
 				(at 0 -12.7 0)
 				(show_name)
 				(effects
@@ -4034,7 +4100,7 @@
 					(hide yes)
 				)
 			)
-			(property "Case Code - mm" "1005"
+			(property "Case Code - in" "0402"
 				(at 0 -15.24 0)
 				(show_name)
 				(effects
@@ -4045,7 +4111,7 @@
 					(hide yes)
 				)
 			)
-			(property "MPN" "ERJ-2GEJ104X"
+			(property "Case Code - mm" "1005"
 				(at 0 -17.78 0)
 				(show_name)
 				(effects
@@ -4056,7 +4122,7 @@
 					(hide yes)
 				)
 			)
-			(property "Manufacturer" "Panasonic"
+			(property "Component Type" "Resistor"
 				(at 0 -20.32 0)
 				(show_name)
 				(effects
@@ -4067,7 +4133,7 @@
 					(hide yes)
 				)
 			)
-			(property "Series" "ERJ-2GE"
+			(property "MPN" "ERJ-2GEJ104X"
 				(at 0 -22.86 0)
 				(show_name)
 				(effects
@@ -4078,7 +4144,7 @@
 					(hide yes)
 				)
 			)
-			(property "Symbol Name" "R_ERJ-2GEJ104X"
+			(property "Manufacturer" "Panasonic"
 				(at 0 -25.4 0)
 				(show_name)
 				(effects
@@ -4089,7 +4155,7 @@
 					(hide yes)
 				)
 			)
-			(property "Tolerance" "5%"
+			(property "Series" "ERJ-2GEJ"
 				(at 0 -27.94 0)
 				(show_name)
 				(effects
@@ -4100,7 +4166,7 @@
 					(hide yes)
 				)
 			)
-			(property "Trustedparts Search" "https://www.trustedparts.com/en/search/ERJ-2GEJ104X"
+			(property "Symbol Name" "R_ERJ-2GEJ104X"
 				(at 0 -30.48 0)
 				(show_name)
 				(effects
@@ -4111,8 +4177,41 @@
 					(hide yes)
 				)
 			)
-			(property "Voltage Rating" "50V"
+			(property "Temperature Coefficient" "200 ppm/°C"
 				(at 0 -33.02 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Tolerance" "5%"
+				(at 0 -35.56 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Trustedparts Search" "https://www.trustedparts.com/en/search/ERJ-2GEJ104X"
+				(at 0 -38.1 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Voltage Rating" "50V"
+				(at 0 -40.64 0)
 				(show_name)
 				(effects
 					(font
@@ -4781,7 +4880,7 @@
 					(hide yes)
 				)
 			)
-			(property "Description" "POWER TRANSFORMER SMD 470 µH ±10% AEC-Q200"
+			(property "Description" "470 µH ±10%"
 				(at 0 -15.24 0)
 				(show_name)
 				(effects
@@ -4792,7 +4891,7 @@
 					(hide yes)
 				)
 			)
-			(property "MPN" "ZA9644-AED"
+			(property "3dviewer Link" "https://3dviewer.net/index.html#model=https://github.com/ionutms/KiCAD_Symbols_Generator/blob/main/3D_models/ZA9644.step"
 				(at 0 -17.78 0)
 				(show_name)
 				(effects
@@ -4803,7 +4902,7 @@
 					(hide yes)
 				)
 			)
-			(property "Manufacturer" "Coilcraft"
+			(property "MPN" "ZA9644-AED"
 				(at 0 -20.32 0)
 				(show_name)
 				(effects
@@ -4814,7 +4913,7 @@
 					(hide yes)
 				)
 			)
-			(property "Maximum DC Current (A)" "0.5"
+			(property "Manufacturer" "Coilcraft"
 				(at 0 -22.86 0)
 				(show_name)
 				(effects
@@ -4825,7 +4924,7 @@
 					(hide yes)
 				)
 			)
-			(property "Maximum DC Resistance (Ω)" "1.800"
+			(property "Maximum DC Resistance (Ω)" "pri = 1.8; sec = 1.8"
 				(at 0 -25.4 0)
 				(show_name)
 				(effects
@@ -4836,7 +4935,7 @@
 					(hide yes)
 				)
 			)
-			(property "Series" "ZA9644"
+			(property "Primary Inductance (µH)" "470"
 				(at 0 -27.94 0)
 				(show_name)
 				(effects
@@ -4847,7 +4946,7 @@
 					(hide yes)
 				)
 			)
-			(property "Symbol Name" "T_ZA9644-AED"
+			(property "Series" "ZA9644"
 				(at 0 -30.48 0)
 				(show_name)
 				(effects
@@ -4858,7 +4957,7 @@
 					(hide yes)
 				)
 			)
-			(property "Tolerance" "±10%"
+			(property "Symbol Name" "T_ZA9644-AED"
 				(at 0 -33.02 0)
 				(show_name)
 				(effects
@@ -4869,8 +4968,30 @@
 					(hide yes)
 				)
 			)
-			(property "Trustedparts Search" "https://www.trustedparts.com/en/search/ZA9644-AED"
+			(property "Tolerance" "±10%"
 				(at 0 -35.56 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Trustedparts Search" "https://www.trustedparts.com/en/search/ZA9644-AED"
+				(at 0 -38.1 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Turns Ratio" "pri : sec = 1 : 1"
+				(at 0 -40.64 0)
 				(show_name)
 				(effects
 					(font
@@ -8427,7 +8548,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "039d50b5-a647-455a-a51c-b2fd3e2d7a9f")
-		(property "Reference" "#PWR03"
+		(property "Reference" "#PWR3"
 			(at 144.78 97.79 0)
 			(effects
 				(font
@@ -8477,7 +8598,7 @@
 		(instances
 			(project "minimal_adp1032"
 				(path "/4fc77145-bed9-4349-932d-fc43371f0de5"
-					(reference "#PWR03")
+					(reference "#PWR3")
 					(unit 1)
 				)
 			)
@@ -8493,7 +8614,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "06233744-4f62-4358-bab7-a5650a31e36e")
-		(property "Reference" "#PWR014"
+		(property "Reference" "#PWR14"
 			(at 218.44 200.66 0)
 			(effects
 				(font
@@ -8543,7 +8664,7 @@
 		(instances
 			(project "minimal_adp1032"
 				(path "/4fc77145-bed9-4349-932d-fc43371f0de5"
-					(reference "#PWR014")
+					(reference "#PWR14")
 					(unit 1)
 				)
 			)
@@ -8559,7 +8680,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0ad2a202-ae38-49bf-9c51-b4a85787c31f")
-		(property "Reference" "#PWR024"
+		(property "Reference" "#PWR24"
 			(at 124.46 99.06 0)
 			(effects
 				(font
@@ -8609,7 +8730,7 @@
 		(instances
 			(project "minimal_adp1032"
 				(path "/4fc77145-bed9-4349-932d-fc43371f0de5"
-					(reference "#PWR024")
+					(reference "#PWR24")
 					(unit 1)
 				)
 			)
@@ -8695,7 +8816,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0f000afb-d9d1-4a41-9e7e-584251f20607")
-		(property "Reference" "#PWR04"
+		(property "Reference" "#PWR4"
 			(at 144.78 162.56 0)
 			(effects
 				(font
@@ -8745,7 +8866,7 @@
 		(instances
 			(project "minimal_adp1032"
 				(path "/4fc77145-bed9-4349-932d-fc43371f0de5"
-					(reference "#PWR04")
+					(reference "#PWR4")
 					(unit 1)
 				)
 			)
@@ -8761,7 +8882,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1113ef40-2ecd-493d-8365-6d644d3ba415")
-		(property "Reference" "#PWR027"
+		(property "Reference" "#PWR27"
 			(at 284.48 142.24 0)
 			(effects
 				(font
@@ -8811,7 +8932,7 @@
 		(instances
 			(project "minimal_adp1032"
 				(path "/4fc77145-bed9-4349-932d-fc43371f0de5"
-					(reference "#PWR027")
+					(reference "#PWR27")
 					(unit 1)
 				)
 			)
@@ -8827,7 +8948,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "192666d8-c976-4412-8836-411df1b02b34")
-		(property "Reference" "#PWR016"
+		(property "Reference" "#PWR16"
 			(at 231.14 118.11 0)
 			(effects
 				(font
@@ -8877,7 +8998,7 @@
 		(instances
 			(project "minimal_adp1032"
 				(path "/4fc77145-bed9-4349-932d-fc43371f0de5"
-					(reference "#PWR016")
+					(reference "#PWR16")
 					(unit 1)
 				)
 			)
@@ -8963,7 +9084,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1ab5e286-9c17-4f0d-9b92-48043f9d22a7")
-		(property "Reference" "#PWR020"
+		(property "Reference" "#PWR20"
 			(at 251.46 97.79 0)
 			(effects
 				(font
@@ -9013,7 +9134,7 @@
 		(instances
 			(project "minimal_adp1032"
 				(path "/4fc77145-bed9-4349-932d-fc43371f0de5"
-					(reference "#PWR020")
+					(reference "#PWR20")
 					(unit 1)
 				)
 			)
@@ -9069,7 +9190,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "DIODE SMD 62.0 V"
+		(property "Description" "Zener SMD 62.0 V"
 			(at 195.58 86.36 0)
 			(show_name yes)
 			(effects
@@ -9182,7 +9303,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "29aa7e1e-04e2-4d0b-9baf-2c216996841c")
-		(property "Reference" "#PWR012"
+		(property "Reference" "#PWR12"
 			(at 187.96 200.66 0)
 			(effects
 				(font
@@ -9232,7 +9353,7 @@
 		(instances
 			(project "minimal_adp1032"
 				(path "/4fc77145-bed9-4349-932d-fc43371f0de5"
-					(reference "#PWR012")
+					(reference "#PWR12")
 					(unit 1)
 				)
 			)
@@ -9386,7 +9507,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "305fb8c9-a63d-45d2-b12c-8e6f9616944a")
-		(property "Reference" "#PWR015"
+		(property "Reference" "#PWR15"
 			(at 223.52 142.24 0)
 			(effects
 				(font
@@ -9436,7 +9557,7 @@
 		(instances
 			(project "minimal_adp1032"
 				(path "/4fc77145-bed9-4349-932d-fc43371f0de5"
-					(reference "#PWR015")
+					(reference "#PWR15")
 					(unit 1)
 				)
 			)
@@ -9595,7 +9716,7 @@
 				)
 			)
 		)
-		(property "Value" "0.1uF"
+		(property "Value" "100 nF"
 			(at 229.87 152.4 0)
 			(effects
 				(font
@@ -9721,7 +9842,7 @@
 				(hide yes)
 			)
 		)
-		(property "Series" "GCM155"
+		(property "Series" "GCM155R71H"
 			(at 229.87 129.54 0)
 			(effects
 				(font
@@ -9747,6 +9868,26 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
+			)
+		)
+		(property "3dviewer Link" "https://3dviewer.net/index.html#model=https://github.com/ionutms/KiCAD_Symbols_Generator/blob/main/3D_models/C_0402.step"
+			(at 229.87 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Capacitor Type" "Ceramic"
+			(at 229.87 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -9813,7 +9954,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "DIODE SMD 200.0 V"
+		(property "Description" "Rectifier SMD 200.0 V"
 			(at 218.44 91.44 0)
 			(show_name yes)
 			(effects
@@ -10353,7 +10494,7 @@
 				)
 			)
 		)
-		(property "Value" "0.1uF"
+		(property "Value" "100 nF"
 			(at 175.26 160.02 0)
 			(effects
 				(font
@@ -10479,7 +10620,7 @@
 				(hide yes)
 			)
 		)
-		(property "Series" "GCM155"
+		(property "Series" "GCM155R71H"
 			(at 175.26 124.46 0)
 			(effects
 				(font
@@ -10508,6 +10649,26 @@
 				(hide yes)
 			)
 		)
+		(property "3dviewer Link" "https://3dviewer.net/index.html#model=https://github.com/ionutms/KiCAD_Symbols_Generator/blob/main/3D_models/C_0402.step"
+			(at 175.26 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Capacitor Type" "Ceramic"
+			(at 175.26 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "526363ec-0da7-4074-bd35-aa71a728f50d")
 		)
@@ -10533,7 +10694,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "46253941-6e50-423c-bc3c-451c0f6bc772")
-		(property "Reference" "#PWR09"
+		(property "Reference" "#PWR9"
 			(at 182.88 142.24 0)
 			(effects
 				(font
@@ -10583,7 +10744,7 @@
 		(instances
 			(project "minimal_adp1032"
 				(path "/4fc77145-bed9-4349-932d-fc43371f0de5"
-					(reference "#PWR09")
+					(reference "#PWR9")
 					(unit 1)
 				)
 			)
@@ -10749,7 +10910,7 @@
 				)
 			)
 		)
-		(property "Value" "100k"
+		(property "Value" "100 kΩ"
 			(at 223.52 118.11 0)
 			(effects
 				(font
@@ -10865,7 +11026,7 @@
 				(hide yes)
 			)
 		)
-		(property "Series" "ERJ-2GE"
+		(property "Series" "ERJ-2GEJ"
 			(at 223.52 88.9 0)
 			(effects
 				(font
@@ -10877,6 +11038,36 @@
 		)
 		(property "Trustedparts Search" "https://www.trustedparts.com/en/search/ERJ-2GEJ104X"
 			(at 223.52 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "3dviewer Link" "https://3dviewer.net/index.html#model=https://github.com/ionutms/KiCAD_Symbols_Generator/blob/main/3D_models/R_0402.step"
+			(at 223.52 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Component Type" "Resistor"
+			(at 223.52 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Temperature Coefficient" "200 ppm/°C"
+			(at 223.52 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10910,7 +11101,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "52c770c2-5df0-4104-bd1f-dbef81715df2")
-		(property "Reference" "#PWR017"
+		(property "Reference" "#PWR17"
 			(at 236.22 165.1 0)
 			(effects
 				(font
@@ -10961,7 +11152,7 @@
 		(instances
 			(project "minimal_adp1032"
 				(path "/4fc77145-bed9-4349-932d-fc43371f0de5"
-					(reference "#PWR017")
+					(reference "#PWR17")
 					(unit 1)
 				)
 			)
@@ -10977,7 +11168,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "541671fa-4412-4d43-ba7c-25812c57ada9")
-		(property "Reference" "#PWR01"
+		(property "Reference" "#PWR1"
 			(at 144.78 193.04 0)
 			(effects
 				(font
@@ -11027,7 +11218,7 @@
 		(instances
 			(project "minimal_adp1032"
 				(path "/4fc77145-bed9-4349-932d-fc43371f0de5"
-					(reference "#PWR01")
+					(reference "#PWR1")
 					(unit 1)
 				)
 			)
@@ -11053,7 +11244,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "100k"
+		(property "Value" "100 kΩ"
 			(at 307.34 187.9599 90)
 			(effects
 				(font
@@ -11170,7 +11361,7 @@
 				(hide yes)
 			)
 		)
-		(property "Series" "ERJ-2GE"
+		(property "Series" "ERJ-2GEJ"
 			(at 327.66 186.69 0)
 			(effects
 				(font
@@ -11182,6 +11373,36 @@
 		)
 		(property "Trustedparts Search" "https://www.trustedparts.com/en/search/ERJ-2GEJ104X"
 			(at 335.28 186.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "3dviewer Link" "https://3dviewer.net/index.html#model=https://github.com/ionutms/KiCAD_Symbols_Generator/blob/main/3D_models/R_0402.step"
+			(at 317.5 186.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Component Type" "Resistor"
+			(at 325.12 186.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Temperature Coefficient" "200 ppm/°C"
+			(at 337.82 186.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11215,7 +11436,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5c470488-471d-477b-8bb6-53adf96bdd02")
-		(property "Reference" "#PWR029"
+		(property "Reference" "#PWR29"
 			(at 124.46 165.1 0)
 			(effects
 				(font
@@ -11265,7 +11486,7 @@
 		(instances
 			(project "minimal_adp1032"
 				(path "/4fc77145-bed9-4349-932d-fc43371f0de5"
-					(reference "#PWR029")
+					(reference "#PWR29")
 					(unit 1)
 				)
 			)
@@ -11291,7 +11512,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "100k"
+		(property "Value" "100 kΩ"
 			(at 297.18 187.9599 90)
 			(effects
 				(font
@@ -11408,7 +11629,7 @@
 				(hide yes)
 			)
 		)
-		(property "Series" "ERJ-2GE"
+		(property "Series" "ERJ-2GEJ"
 			(at 317.5 186.69 0)
 			(effects
 				(font
@@ -11420,6 +11641,36 @@
 		)
 		(property "Trustedparts Search" "https://www.trustedparts.com/en/search/ERJ-2GEJ104X"
 			(at 325.12 186.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "3dviewer Link" "https://3dviewer.net/index.html#model=https://github.com/ionutms/KiCAD_Symbols_Generator/blob/main/3D_models/R_0402.step"
+			(at 307.34 186.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Component Type" "Resistor"
+			(at 314.96 186.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Temperature Coefficient" "200 ppm/°C"
+			(at 327.66 186.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11492,7 +11743,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "DIODE SMD 100.0 V"
+		(property "Description" "Schottky SMD 100.0 V"
 			(at 195.58 99.06 0)
 			(show_name yes)
 			(effects
@@ -11615,7 +11866,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "100k"
+		(property "Value" "100 kΩ"
 			(at 307.34 160.0199 90)
 			(effects
 				(font
@@ -11732,7 +11983,7 @@
 				(hide yes)
 			)
 		)
-		(property "Series" "ERJ-2GE"
+		(property "Series" "ERJ-2GEJ"
 			(at 327.66 158.75 0)
 			(effects
 				(font
@@ -11744,6 +11995,36 @@
 		)
 		(property "Trustedparts Search" "https://www.trustedparts.com/en/search/ERJ-2GEJ104X"
 			(at 335.28 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "3dviewer Link" "https://3dviewer.net/index.html#model=https://github.com/ionutms/KiCAD_Symbols_Generator/blob/main/3D_models/R_0402.step"
+			(at 317.5 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Component Type" "Resistor"
+			(at 325.12 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Temperature Coefficient" "200 ppm/°C"
+			(at 337.82 158.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12082,7 +12363,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "726ce126-3943-4a7b-9567-bb135cc6d41a")
-		(property "Reference" "#PWR032"
+		(property "Reference" "#PWR32"
 			(at 160.02 193.04 0)
 			(effects
 				(font
@@ -12132,7 +12413,7 @@
 		(instances
 			(project "minimal_adp1032"
 				(path "/4fc77145-bed9-4349-932d-fc43371f0de5"
-					(reference "#PWR032")
+					(reference "#PWR32")
 					(unit 1)
 				)
 			)
@@ -12156,7 +12437,7 @@
 				)
 			)
 		)
-		(property "Value" "0.1uF"
+		(property "Value" "100 nF"
 			(at 234.95 142.24 0)
 			(effects
 				(font
@@ -12282,7 +12563,7 @@
 				(hide yes)
 			)
 		)
-		(property "Series" "GCM155"
+		(property "Series" "GCM155R71H"
 			(at 234.95 175.26 0)
 			(effects
 				(font
@@ -12308,6 +12589,26 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
+			)
+		)
+		(property "3dviewer Link" "https://3dviewer.net/index.html#model=https://github.com/ionutms/KiCAD_Symbols_Generator/blob/main/3D_models/C_0402.step"
+			(at 234.95 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Capacitor Type" "Ceramic"
+			(at 234.95 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -12337,7 +12638,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "78081629-a5a1-4761-ac52-610609bbe42c")
-		(property "Reference" "#PWR025"
+		(property "Reference" "#PWR25"
 			(at 294.64 200.66 0)
 			(effects
 				(font
@@ -12387,7 +12688,7 @@
 		(instances
 			(project "minimal_adp1032"
 				(path "/4fc77145-bed9-4349-932d-fc43371f0de5"
-					(reference "#PWR025")
+					(reference "#PWR25")
 					(unit 1)
 				)
 			)
@@ -12412,7 +12713,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "100k"
+		(property "Value" "100 kΩ"
 			(at 287.02 160.0199 90)
 			(effects
 				(font
@@ -12529,7 +12830,7 @@
 				(hide yes)
 			)
 		)
-		(property "Series" "ERJ-2GE"
+		(property "Series" "ERJ-2GEJ"
 			(at 307.34 158.75 0)
 			(effects
 				(font
@@ -12541,6 +12842,36 @@
 		)
 		(property "Trustedparts Search" "https://www.trustedparts.com/en/search/ERJ-2GEJ104X"
 			(at 314.96 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "3dviewer Link" "https://3dviewer.net/index.html#model=https://github.com/ionutms/KiCAD_Symbols_Generator/blob/main/3D_models/R_0402.step"
+			(at 297.18 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Component Type" "Resistor"
+			(at 304.8 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Temperature Coefficient" "200 ppm/°C"
+			(at 317.5 158.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12820,7 +13151,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "100k"
+		(property "Value" "100 kΩ"
 			(at 287.02 187.9599 90)
 			(effects
 				(font
@@ -12937,7 +13268,7 @@
 				(hide yes)
 			)
 		)
-		(property "Series" "ERJ-2GE"
+		(property "Series" "ERJ-2GEJ"
 			(at 307.34 186.69 0)
 			(effects
 				(font
@@ -12949,6 +13280,36 @@
 		)
 		(property "Trustedparts Search" "https://www.trustedparts.com/en/search/ERJ-2GEJ104X"
 			(at 314.96 186.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "3dviewer Link" "https://3dviewer.net/index.html#model=https://github.com/ionutms/KiCAD_Symbols_Generator/blob/main/3D_models/R_0402.step"
+			(at 297.18 186.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Component Type" "Resistor"
+			(at 304.8 186.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Temperature Coefficient" "200 ppm/°C"
+			(at 317.5 186.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13049,7 +13410,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7bc45e0c-a396-4c89-a097-ec5772211668")
-		(property "Reference" "#PWR05"
+		(property "Reference" "#PWR5"
 			(at 157.48 97.79 0)
 			(effects
 				(font
@@ -13099,7 +13460,7 @@
 		(instances
 			(project "minimal_adp1032"
 				(path "/4fc77145-bed9-4349-932d-fc43371f0de5"
-					(reference "#PWR05")
+					(reference "#PWR5")
 					(unit 1)
 				)
 			)
@@ -13316,6 +13677,213 @@
 		)
 	)
 	(symbol
+		(lib_id "UNITED_IC_ADI:U_ADP1032ACPZ-5-R7")
+		(at 203.2 152.4 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "85606009-e2f9-4b7a-b07c-8ba4ced32d36")
+		(property "Reference" "U1"
+			(at 203.2 99.06 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Value" "ADP1032ACPZ-5-R7"
+			(at 203.2 101.6 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Footprint" "analog_devices_footprints:CP-41-1_ADI"
+			(at 213.36 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.analog.com/media/en/technical-documentation/data-sheets/ADP1032.pdf"
+			(at 213.36 198.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Description" "Two-Channel, Isolated Micropower Management Unit with Seven Digital Isolators"
+			(at 213.36 200.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "MPN" "ADP1032ACPZ-5-R7"
+			(at 213.36 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(pin "43"
+			(uuid "d18328af-2f1a-4583-9354-dbc7b9d33808")
+		)
+		(pin "29"
+			(uuid "f2d0a2d5-e360-4bf6-a3ac-d3e239d081aa")
+		)
+		(pin "10"
+			(uuid "42ff1eb1-48ee-4e67-9c37-e801ef4c9c20")
+		)
+		(pin "33"
+			(uuid "7901b986-6bfa-4e13-9835-24dc71e837ad")
+		)
+		(pin "21"
+			(uuid "95163b5b-65bb-476a-9521-0efa013bb07c")
+		)
+		(pin "38"
+			(uuid "d91467d8-a066-4e6c-876a-94c9ac169e3e")
+		)
+		(pin "39"
+			(uuid "cb52a6cf-50d7-48f8-99b6-e4b9c06c543e")
+		)
+		(pin "5"
+			(uuid "9ea4c44d-7455-4366-9db4-ec36c93f84ec")
+		)
+		(pin "4"
+			(uuid "1c8ede5c-8c09-4b1e-a575-df1bda2debbf")
+		)
+		(pin "28"
+			(uuid "5bb38f27-b17e-4d9b-b69f-b6858a6b7662")
+		)
+		(pin "8"
+			(uuid "46109297-4d29-419a-a3ee-473d97372be1")
+		)
+		(pin "18"
+			(uuid "3aeb6f83-9af3-4d8b-9285-1d673a5ff9ef")
+		)
+		(pin "36"
+			(uuid "abb7c037-8993-43fb-9d61-a03fc8956cfd")
+		)
+		(pin "7"
+			(uuid "a6499556-8ec8-4b34-8295-dfd8a52687d3")
+		)
+		(pin "40"
+			(uuid "f158b067-d132-4033-b757-51a0e71aec30")
+		)
+		(pin "1"
+			(uuid "81026635-9c53-4cd7-84aa-813bb2bcc984")
+		)
+		(pin "32"
+			(uuid "eca2b5af-6e9f-409c-abd3-8fdeba83e0a1")
+		)
+		(pin "31"
+			(uuid "81fda2c3-8ea9-4d34-b76b-24f186c86baa")
+		)
+		(pin "35"
+			(uuid "3caf9a59-7b9a-4765-9b93-cb7313377f07")
+		)
+		(pin "34"
+			(uuid "cbd67060-41c4-43f6-9cfa-132bfa690a11")
+		)
+		(pin "30"
+			(uuid "839a0783-5800-4357-bb64-b9fea3d6bf2b")
+		)
+		(pin "42"
+			(uuid "a574b88b-bb62-41f7-b129-07a013ad9e43")
+		)
+		(pin "37"
+			(uuid "3e3f3e6f-4a34-49d8-bd86-e8d7d108ee70")
+		)
+		(pin "41"
+			(uuid "7627fb3d-14b3-4472-b5bb-6e585c5f39d0")
+		)
+		(pin "19"
+			(uuid "caf04407-85e7-4952-bf6b-79e9b470bc4a")
+		)
+		(pin "14"
+			(uuid "64521e65-21ec-44d0-bf87-89af1fd7cfa0")
+		)
+		(pin "15"
+			(uuid "adf49130-b972-454d-86e6-2fea7edfb62e")
+		)
+		(pin "17"
+			(uuid "07af4c6d-040c-4c4a-a484-2fd34a879e02")
+		)
+		(pin "27"
+			(uuid "9c6fd6b1-9fcd-45a3-af16-4bcc4d7cea02")
+		)
+		(pin "3"
+			(uuid "bc7610d6-3735-4f02-8e1e-bdd72c0a2d85")
+		)
+		(pin "20"
+			(uuid "22ff835a-398e-4507-9aa1-09cb038de645")
+		)
+		(pin "44"
+			(uuid "4dc578cf-74e1-414c-9f68-7082dd0f9c20")
+		)
+		(pin "9"
+			(uuid "9e49a0d4-783d-4cb1-a34c-35276c75764a")
+		)
+		(pin "24"
+			(uuid "7ac14b36-217b-44e9-aafc-83516e15cef4")
+		)
+		(pin "12"
+			(uuid "1ea42951-f2bd-4c48-b090-d264b13050b2")
+		)
+		(pin "16"
+			(uuid "ab906de5-474e-4872-9638-671cd521a6df")
+		)
+		(pin "13"
+			(uuid "09578a77-05fd-423d-b9b6-077cb1d320d3")
+		)
+		(pin "26"
+			(uuid "d0f88763-5912-4cf2-a100-b1daeae0345f")
+		)
+		(pin "2"
+			(uuid "a63ff6ef-e54c-466e-b1cf-86b323345d45")
+		)
+		(pin "23"
+			(uuid "55b49a7d-fb8b-4886-8a37-a1f4eb02574e")
+		)
+		(pin "22"
+			(uuid "868cf47b-cb04-4597-8c6d-3c31b7d2f73e")
+		)
+		(pin "25"
+			(uuid "90e7629b-8c09-4753-9927-73274049cee5")
+		)
+		(pin "11"
+			(uuid "82e632bd-da3d-448c-933e-e3be8c0abb81")
+		)
+		(pin "6"
+			(uuid "14948fe4-7f5f-4f83-9239-9f0215f7819c")
+		)
+		(instances
+			(project ""
+				(path "/4fc77145-bed9-4349-932d-fc43371f0de5"
+					(reference "U1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "UNITED_MOUSE_BITES_DATA_BASE:mouse-bite-50mil-305mil")
 		(at 124.46 101.6 0)
 		(unit 1)
@@ -13472,7 +14040,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "100k"
+		(property "Value" "100 kΩ"
 			(at 297.18 160.0199 90)
 			(effects
 				(font
@@ -13589,7 +14157,7 @@
 				(hide yes)
 			)
 		)
-		(property "Series" "ERJ-2GE"
+		(property "Series" "ERJ-2GEJ"
 			(at 317.5 158.75 0)
 			(effects
 				(font
@@ -13601,6 +14169,36 @@
 		)
 		(property "Trustedparts Search" "https://www.trustedparts.com/en/search/ERJ-2GEJ104X"
 			(at 325.12 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "3dviewer Link" "https://3dviewer.net/index.html#model=https://github.com/ionutms/KiCAD_Symbols_Generator/blob/main/3D_models/R_0402.step"
+			(at 307.34 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Component Type" "Resistor"
+			(at 314.96 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Temperature Coefficient" "200 ppm/°C"
+			(at 327.66 158.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13634,7 +14232,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8b266e11-1cbc-4140-b6c3-c396c8e88495")
-		(property "Reference" "#PWR08"
+		(property "Reference" "#PWR8"
 			(at 182.88 129.54 0)
 			(effects
 				(font
@@ -13684,7 +14282,7 @@
 		(instances
 			(project "minimal_adp1032"
 				(path "/4fc77145-bed9-4349-932d-fc43371f0de5"
-					(reference "#PWR08")
+					(reference "#PWR8")
 					(unit 1)
 				)
 			)
@@ -13700,7 +14298,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8e328d27-9a9e-4849-976c-3b417e23b588")
-		(property "Reference" "#PWR019"
+		(property "Reference" "#PWR19"
 			(at 241.3 154.94 0)
 			(effects
 				(font
@@ -13750,7 +14348,7 @@
 		(instances
 			(project "minimal_adp1032"
 				(path "/4fc77145-bed9-4349-932d-fc43371f0de5"
-					(reference "#PWR019")
+					(reference "#PWR19")
 					(unit 1)
 				)
 			)
@@ -13775,7 +14373,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10 uF"
+		(property "Value" "10 µF"
 			(at 242.57 85.0899 90)
 			(effects
 				(font
@@ -13902,7 +14500,7 @@
 				(hide yes)
 			)
 		)
-		(property "Series" "CL31"
+		(property "Series" "CL31B"
 			(at 210.82 85.09 0)
 			(effects
 				(font
@@ -13924,6 +14522,26 @@
 		)
 		(property "Voltage Rating" "50V"
 			(at 242.57 87.6299 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "3dviewer Link" "https://3dviewer.net/index.html#model=https://github.com/ionutms/KiCAD_Symbols_Generator/blob/main/3D_models/C_1206.step"
+			(at 223.52 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Capacitor Type" "Ceramic"
+			(at 220.98 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14024,7 +14642,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a0fb5c90-11f9-4d94-98f0-e4a19fe1ba5f")
-		(property "Reference" "#PWR026"
+		(property "Reference" "#PWR26"
 			(at 284.48 97.79 0)
 			(effects
 				(font
@@ -14074,7 +14692,7 @@
 		(instances
 			(project "minimal_adp1032"
 				(path "/4fc77145-bed9-4349-932d-fc43371f0de5"
-					(reference "#PWR026")
+					(reference "#PWR26")
 					(unit 1)
 				)
 			)
@@ -14099,7 +14717,7 @@
 				)
 			)
 		)
-		(property "Value" "FW-07-03-G-D-085-155"
+		(property "Value" "FW-08-03-G-D-085-155"
 			(at 152.4 162.56 0)
 			(effects
 				(font
@@ -14440,7 +15058,7 @@
 				)
 			)
 		)
-		(property "Value" "FW-07-03-G-D-085-155"
+		(property "Value" "FW-08-03-G-D-085-155"
 			(at 254 162.56 0)
 			(effects
 				(font
@@ -14774,7 +15392,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b400dfea-d9f7-462e-bf3d-cb786a6e1302")
-		(property "Reference" "#PWR021"
+		(property "Reference" "#PWR21"
 			(at 251.46 142.24 0)
 			(effects
 				(font
@@ -14824,7 +15442,7 @@
 		(instances
 			(project "minimal_adp1032"
 				(path "/4fc77145-bed9-4349-932d-fc43371f0de5"
-					(reference "#PWR021")
+					(reference "#PWR21")
 					(unit 1)
 				)
 			)
@@ -14840,7 +15458,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b61b78ce-5848-42a5-8cf8-b26c68c2940f")
-		(property "Reference" "#PWR011"
+		(property "Reference" "#PWR11"
 			(at 187.96 162.56 0)
 			(effects
 				(font
@@ -14890,7 +15508,7 @@
 		(instances
 			(project "minimal_adp1032"
 				(path "/4fc77145-bed9-4349-932d-fc43371f0de5"
-					(reference "#PWR011")
+					(reference "#PWR11")
 					(unit 1)
 				)
 			)
@@ -14906,7 +15524,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b90973a7-99e4-4a0e-aaec-fb231e33c63b")
-		(property "Reference" "#PWR02"
+		(property "Reference" "#PWR2"
 			(at 261.62 194.31 0)
 			(effects
 				(font
@@ -14956,7 +15574,7 @@
 		(instances
 			(project "minimal_adp1032"
 				(path "/4fc77145-bed9-4349-932d-fc43371f0de5"
-					(reference "#PWR02")
+					(reference "#PWR2")
 					(unit 1)
 				)
 			)
@@ -14972,7 +15590,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ba1e9eaa-38eb-45f5-9c57-15a8be32432c")
-		(property "Reference" "#PWR030"
+		(property "Reference" "#PWR30"
 			(at 304.8 138.43 0)
 			(effects
 				(font
@@ -15022,7 +15640,7 @@
 		(instances
 			(project "minimal_adp1032"
 				(path "/4fc77145-bed9-4349-932d-fc43371f0de5"
-					(reference "#PWR030")
+					(reference "#PWR30")
 					(unit 1)
 				)
 			)
@@ -15076,7 +15694,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "POWER TRANSFORMER SMD 470 µH ±10% AEC-Q200"
+		(property "Description" "470 µH ±10%"
 			(at 203.2 99.06 0)
 			(show_name yes)
 			(effects
@@ -15120,7 +15738,7 @@
 				(hide yes)
 			)
 		)
-		(property "Maximum DC Resistance (Ω)" "1.800"
+		(property "Maximum DC Resistance (Ω)" "pri = 1.8; sec = 1.8"
 			(at 203.2 109.22 0)
 			(show_name yes)
 			(effects
@@ -15167,6 +15785,36 @@
 		(property "Trustedparts Search" "https://www.trustedparts.com/en/search/ZA9644-AED"
 			(at 203.2 119.38 0)
 			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "3dviewer Link" "https://3dviewer.net/index.html#model=https://github.com/ionutms/KiCAD_Symbols_Generator/blob/main/3D_models/ZA9644.step"
+			(at 203.2 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Primary Inductance (µH)" "470"
+			(at 203.2 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Turns Ratio" "pri : sec = 1 : 1"
+			(at 203.2 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15436,6 +16084,84 @@
 		)
 	)
 	(symbol
+		(lib_id "UNITED_SOLDER_JUMPERS:SolderJumper_3_Open")
+		(at 170.18 116.84 90)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "bd576416-538a-4fd2-9267-045b4782bf56")
+		(property "Reference" "JP1"
+			(at 167.64 116.8399 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "SolderJumper_3_Open"
+			(at 175.26 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "solder_jumper_footprints:SolderJumper-3_P1.3mm_Open_RoundedPad1.0x1.5mm_NumberLabels"
+			(at 182.88 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 177.8 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Description" "Solder Jumper, 3-pole, open"
+			(at 180.34 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "112c732a-b547-4d48-b81e-c4af18c3eabd")
+		)
+		(pin "1"
+			(uuid "3f7c45db-4d8a-4a4c-8885-8ac64e162612")
+		)
+		(pin "2"
+			(uuid "ade07844-7b4c-4a38-8d02-fa9f2cf710bf")
+		)
+		(instances
+			(project ""
+				(path "/4fc77145-bed9-4349-932d-fc43371f0de5"
+					(reference "JP1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "UNITED_CAPACITORS_DATA_BASE:C_CL31B106KBHNNN#")
 		(at 251.46 85.09 270)
 		(unit 1)
@@ -15454,7 +16180,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10 uF"
+		(property "Value" "10 µF"
 			(at 255.27 85.0899 90)
 			(effects
 				(font
@@ -15581,7 +16307,7 @@
 				(hide yes)
 			)
 		)
-		(property "Series" "CL31"
+		(property "Series" "CL31B"
 			(at 223.52 85.09 0)
 			(effects
 				(font
@@ -15603,6 +16329,26 @@
 		)
 		(property "Voltage Rating" "50V"
 			(at 255.27 87.6299 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "3dviewer Link" "https://3dviewer.net/index.html#model=https://github.com/ionutms/KiCAD_Symbols_Generator/blob/main/3D_models/C_1206.step"
+			(at 236.22 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Capacitor Type" "Ceramic"
+			(at 233.68 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15770,7 +16516,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ca53fe48-c099-4662-8c66-5c7c5dda6f55")
-		(property "Reference" "#PWR07"
+		(property "Reference" "#PWR7"
 			(at 170.18 129.54 0)
 			(effects
 				(font
@@ -15820,7 +16566,7 @@
 		(instances
 			(project "minimal_adp1032"
 				(path "/4fc77145-bed9-4349-932d-fc43371f0de5"
-					(reference "#PWR07")
+					(reference "#PWR7")
 					(unit 1)
 				)
 			)
@@ -16057,83 +16803,6 @@
 			(project ""
 				(path "/4fc77145-bed9-4349-932d-fc43371f0de5"
 					(reference "J2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "UNITED_SOLDER_JUMPERS:SolderJumper_3_Open")
-		(at 170.18 116.84 90)
-		(mirror x)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "d2a13b2b-4789-4f43-91d2-2698adcefced")
-		(property "Reference" "JP1"
-			(at 167.64 116.8399 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "SolderJumper_3_Open"
-			(at 165.354 116.84 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "solder_jumper_footprints:SolderJumper-3_P1.3mm_Open_RoundedPad1.0x1.5mm_NumberLabels"
-			(at 182.88 119.38 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 177.8 119.38 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Description" "Solder Jumper, 3-pole, open"
-			(at 180.34 119.38 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "ef2fb39f-fc4c-4425-ba26-f43a3bba1d41")
-		)
-		(pin "3"
-			(uuid "7b014bd3-aa64-4644-934d-8f1e02f0eedd")
-		)
-		(pin "2"
-			(uuid "718514f7-a837-41af-abcb-00a3fdaa59d1")
-		)
-		(instances
-			(project "minimal_adp1032"
-				(path "/4fc77145-bed9-4349-932d-fc43371f0de5"
-					(reference "JP1")
 					(unit 1)
 				)
 			)
@@ -16427,7 +17096,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d4b65ce5-b267-4702-9796-7fa1b14d3d8f")
-		(property "Reference" "#PWR022"
+		(property "Reference" "#PWR22"
 			(at 284.48 200.66 0)
 			(effects
 				(font
@@ -16477,7 +17146,7 @@
 		(instances
 			(project "minimal_adp1032"
 				(path "/4fc77145-bed9-4349-932d-fc43371f0de5"
-					(reference "#PWR022")
+					(reference "#PWR22")
 					(unit 1)
 				)
 			)
@@ -16493,7 +17162,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d5981c52-8c54-4129-b6bc-e3d9c713261a")
-		(property "Reference" "#PWR018"
+		(property "Reference" "#PWR18"
 			(at 238.76 97.79 0)
 			(effects
 				(font
@@ -16543,7 +17212,7 @@
 		(instances
 			(project "minimal_adp1032"
 				(path "/4fc77145-bed9-4349-932d-fc43371f0de5"
-					(reference "#PWR018")
+					(reference "#PWR18")
 					(unit 1)
 				)
 			)
@@ -16560,7 +17229,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d64f97a1-7266-4857-82e9-09803de81fbf")
-		(property "Reference" "#PWR028"
+		(property "Reference" "#PWR28"
 			(at 304.8 200.66 0)
 			(effects
 				(font
@@ -16610,7 +17279,7 @@
 		(instances
 			(project "minimal_adp1032"
 				(path "/4fc77145-bed9-4349-932d-fc43371f0de5"
-					(reference "#PWR028")
+					(reference "#PWR28")
 					(unit 1)
 				)
 			)
@@ -16634,7 +17303,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "100k"
+		(property "Value" "100 kΩ"
 			(at 154.94 123.1899 90)
 			(effects
 				(font
@@ -16751,7 +17420,7 @@
 				(hide yes)
 			)
 		)
-		(property "Series" "ERJ-2GE"
+		(property "Series" "ERJ-2GEJ"
 			(at 134.62 121.92 0)
 			(effects
 				(font
@@ -16763,6 +17432,36 @@
 		)
 		(property "Trustedparts Search" "https://www.trustedparts.com/en/search/ERJ-2GEJ104X"
 			(at 127 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "3dviewer Link" "https://3dviewer.net/index.html#model=https://github.com/ionutms/KiCAD_Symbols_Generator/blob/main/3D_models/R_0402.step"
+			(at 144.78 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Component Type" "Resistor"
+			(at 137.16 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Temperature Coefficient" "200 ppm/°C"
+			(at 124.46 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16796,7 +17495,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d6dc5d3d-7132-4985-a507-137722e36023")
-		(property "Reference" "#PWR010"
+		(property "Reference" "#PWR10"
 			(at 187.96 147.32 0)
 			(effects
 				(font
@@ -16846,7 +17545,7 @@
 		(instances
 			(project "minimal_adp1032"
 				(path "/4fc77145-bed9-4349-932d-fc43371f0de5"
-					(reference "#PWR010")
+					(reference "#PWR10")
 					(unit 1)
 				)
 			)
@@ -16871,7 +17570,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "4.7 uF"
+		(property "Value" "4.7 µF"
 			(at 255.27 132.0799 90)
 			(effects
 				(font
@@ -17028,6 +17727,26 @@
 				(hide yes)
 			)
 		)
+		(property "3dviewer Link" "https://3dviewer.net/index.html#model=https://github.com/ionutms/KiCAD_Symbols_Generator/blob/main/3D_models/C_0603.step"
+			(at 236.22 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Capacitor Type" "Ceramic"
+			(at 233.68 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "46de4d70-fffb-4a4c-9fb6-07839e2eb8b2")
 		)
@@ -17053,7 +17772,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "da483095-8774-48ff-ba1e-c06b8a970b6f")
-		(property "Reference" "#PWR023"
+		(property "Reference" "#PWR23"
 			(at 304.8 97.79 0)
 			(effects
 				(font
@@ -17103,7 +17822,7 @@
 		(instances
 			(project "minimal_adp1032"
 				(path "/4fc77145-bed9-4349-932d-fc43371f0de5"
-					(reference "#PWR023")
+					(reference "#PWR23")
 					(unit 1)
 				)
 			)
@@ -17119,7 +17838,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "dab1e477-c020-4faf-9d36-c2db8327d306")
-		(property "Reference" "#PWR06"
+		(property "Reference" "#PWR6"
 			(at 165.1 162.56 0)
 			(effects
 				(font
@@ -17169,7 +17888,7 @@
 		(instances
 			(project "minimal_adp1032"
 				(path "/4fc77145-bed9-4349-932d-fc43371f0de5"
-					(reference "#PWR06")
+					(reference "#PWR6")
 					(unit 1)
 				)
 			)
@@ -17493,7 +18212,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ed50d163-54a9-4cd7-80e9-117111f385db")
-		(property "Reference" "#PWR031"
+		(property "Reference" "#PWR31"
 			(at 246.38 194.31 0)
 			(effects
 				(font
@@ -17543,7 +18262,7 @@
 		(instances
 			(project "minimal_adp1032"
 				(path "/4fc77145-bed9-4349-932d-fc43371f0de5"
-					(reference "#PWR031")
+					(reference "#PWR31")
 					(unit 1)
 				)
 			)
@@ -17900,213 +18619,6 @@
 		)
 	)
 	(symbol
-		(lib_id "UNITED_IC_ADI:U_ADP1032ACPZ-5-R7")
-		(at 203.2 152.4 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "fbc22a59-fa47-42ff-b7e3-ba47bf0ce148")
-		(property "Reference" "U1"
-			(at 203.2 99.06 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-			)
-		)
-		(property "Value" "ADP1032ACPZ-5-R7"
-			(at 203.2 101.6 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-			)
-		)
-		(property "Footprint" "analog_devices_footprints:CP-41-1_ADI"
-			(at 213.36 203.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://www.analog.com/media/en/technical-documentation/data-sheets/ADP1032.pdf"
-			(at 213.36 198.12 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Description" "Two-Channel, Isolated Micropower Management Unit with Seven Digital Isolators"
-			(at 213.36 200.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "MPN" "ADP1032ACPZ-5-R7"
-			(at 213.36 205.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(pin "15"
-			(uuid "46e234d3-4e3c-4529-94f4-2dead97a834c")
-		)
-		(pin "37"
-			(uuid "00582b2d-d3e1-4463-aecd-7877399139ea")
-		)
-		(pin "27"
-			(uuid "eadfa3fe-6e9f-4689-b1e1-049beb401bc2")
-		)
-		(pin "20"
-			(uuid "9183b6bd-0272-44a9-ad2d-e04db7c253be")
-		)
-		(pin "2"
-			(uuid "7dd235a5-4fc2-4c19-ab6c-5afa466fb606")
-		)
-		(pin "28"
-			(uuid "93719877-4dba-42a8-b2cf-52047d4565a1")
-		)
-		(pin "44"
-			(uuid "084193f6-d8fd-48f6-9150-d9199252333b")
-		)
-		(pin "22"
-			(uuid "582f642c-8f27-4fb9-b53f-3a25989c1c65")
-		)
-		(pin "29"
-			(uuid "f9f11c83-28ff-4e83-a432-5286b797f9eb")
-		)
-		(pin "7"
-			(uuid "acac0fd9-23b0-4a38-b092-d68c603ca495")
-		)
-		(pin "11"
-			(uuid "cf1056ca-eed4-4ae4-956a-cb427e027640")
-		)
-		(pin "35"
-			(uuid "33f7ca51-9098-402f-9083-011219fd7d7f")
-		)
-		(pin "43"
-			(uuid "92978b92-86c2-419c-8187-a8c9e8b50db3")
-		)
-		(pin "21"
-			(uuid "afb35e5b-2214-44c7-ae2d-f1b6fcdf161a")
-		)
-		(pin "24"
-			(uuid "f65d8e81-9fe2-485b-a02f-83cd120f5c6d")
-		)
-		(pin "25"
-			(uuid "1ae5a460-2d7a-410d-8520-c08ccc61c08c")
-		)
-		(pin "19"
-			(uuid "9cdbc685-0f17-4897-aa1b-ba2a32a31e68")
-		)
-		(pin "26"
-			(uuid "c6bb69c1-9827-4de3-acfe-d0fb4eeb4d4f")
-		)
-		(pin "4"
-			(uuid "ebbbf64e-ff48-48fb-91e5-8c971d1bdfd2")
-		)
-		(pin "36"
-			(uuid "7696ef45-f69a-48c9-9b0e-369e77d11b41")
-		)
-		(pin "41"
-			(uuid "9f9ee47f-1db8-4f2e-b572-89d69f214b58")
-		)
-		(pin "17"
-			(uuid "fe47e3e9-10e9-4265-8f3c-29dc06b03aa9")
-		)
-		(pin "31"
-			(uuid "dec626f7-136e-4cd2-8c7f-b40d708ed3c5")
-		)
-		(pin "30"
-			(uuid "16f38a5b-11b2-4543-aef3-54d3417bf493")
-		)
-		(pin "39"
-			(uuid "a3f18ebe-f8d5-434b-9656-1d4e9a7418f9")
-		)
-		(pin "10"
-			(uuid "bfa24bd1-ab5a-45a9-b465-8f236b5126b1")
-		)
-		(pin "38"
-			(uuid "ce45ca68-0b03-49b0-81c4-ab367eb82312")
-		)
-		(pin "40"
-			(uuid "267c33a6-5ad4-4da8-89e2-b6d8e63df28b")
-		)
-		(pin "1"
-			(uuid "880fa0b9-582a-4c4d-8173-ba8317e44d25")
-		)
-		(pin "12"
-			(uuid "72463f29-818a-4439-aeb3-ff0b9b3538d0")
-		)
-		(pin "13"
-			(uuid "4411d646-53c8-4235-9f05-02f9bfb1dc90")
-		)
-		(pin "3"
-			(uuid "017529a6-160e-40d5-97b1-5253e39116bf")
-		)
-		(pin "42"
-			(uuid "b08b6074-97d1-4d12-a374-23f8dc259ce2")
-		)
-		(pin "5"
-			(uuid "e9fc2e03-016b-406f-8c45-fb812e20f41a")
-		)
-		(pin "23"
-			(uuid "e05d6dbc-08d3-4dd2-a551-04bf55b45bca")
-		)
-		(pin "32"
-			(uuid "31bb345f-dda2-4730-a05b-daead6ebf214")
-		)
-		(pin "16"
-			(uuid "d9c3359e-a477-461e-8d69-4d50a7f23629")
-		)
-		(pin "14"
-			(uuid "0f67dfd8-4c65-4bc2-9468-032c2cd6161d")
-		)
-		(pin "33"
-			(uuid "5ceba03c-957f-4558-9130-534ff63c85b0")
-		)
-		(pin "34"
-			(uuid "df7e08a8-b647-4e7a-9fbf-d905fd1678e0")
-		)
-		(pin "18"
-			(uuid "bc4db85a-1c27-4386-aded-1ab5820504c1")
-		)
-		(pin "8"
-			(uuid "ebe2a3ee-aafd-458f-9c44-247279543007")
-		)
-		(pin "9"
-			(uuid "a246b8af-a875-44d1-98cd-7878e877005d")
-		)
-		(pin "6"
-			(uuid "43eb030c-d678-498e-89bd-03db96f2372d")
-		)
-		(instances
-			(project "minimal_adp1032"
-				(path "/4fc77145-bed9-4349-932d-fc43371f0de5"
-					(reference "U1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GNDA")
 		(at 218.44 91.44 0)
 		(unit 1)
@@ -18116,7 +18628,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fdee8913-f6fe-49ab-91af-f8a2c9d0fb1a")
-		(property "Reference" "#PWR013"
+		(property "Reference" "#PWR13"
 			(at 218.44 97.79 0)
 			(effects
 				(font
@@ -18166,7 +18678,7 @@
 		(instances
 			(project "minimal_adp1032"
 				(path "/4fc77145-bed9-4349-932d-fc43371f0de5"
-					(reference "#PWR013")
+					(reference "#PWR13")
 					(unit 1)
 				)
 			)

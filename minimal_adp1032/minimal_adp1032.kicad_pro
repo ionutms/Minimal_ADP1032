@@ -38,8 +38,8 @@
         "other_text_upright": false,
         "pads": {
           "drill": 0.0,
-          "height": 2.8956,
-          "width": 0.9906
+          "height": 1.46,
+          "width": 1.72
         },
         "silk_line_width": 0.1,
         "silk_text_italic": false,
@@ -514,7 +514,7 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": ".glb",
+      "step": "minimal_adp1032.step",
       "svg": "",
       "vrml": "minimal_adp1032.wrl"
     },
