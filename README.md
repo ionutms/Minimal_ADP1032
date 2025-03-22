@@ -1,39 +1,36 @@
-# KiCad Demo Project
+# Minimal_ADP1032
 
-This repository contains a demonstration project for KiCad, including custom libraries and footprints as submodules.
+A minimalistic implementation of the ADP1032 IC.
 
-## Project Description
-A demo project showcasing KiCad's capabilities for PCB design and electronic schematic creation.
+## Dependencies
 
-## Prerequisites
-- Git
-- KiCad (latest version recommended)
+This project has the following dependencies:
 
-## Installation
+### 1. KiCAD Symbols Generator
 
-### Cloning the Repository
-There are two methods to clone this repository with its submodules:
+This repository uses [KiCAD_Symbols_Generator](https://github.com/ionutms/KiCAD_Symbols_Generator) as a submodule for custom symbol generation.
 
-#### Method 1: Clone with Submodules (Recommended)
+To initialize the submodule after cloning this repository:
+
 ```bash
-git clone --recursive https://github.com/ionutms/KiCad_Demo_Project.git
+git submodule update --init --recursive
 ```
 
-#### Method 2: Clone and Initialize Submodules Separately
-```bash
-git clone https://github.com/ionutms/KiCad_Demo_Project.git
-cd KiCad_Demo_Project
-git submodule update --init
-```
+### 2. 3D Models
 
-### Updating Submodules
-If you need to update the submodules to their latest versions:
-```bash
-git submodule update --remote
-```
+This project requires the [3D_Models_Vault](https://github.com/ionutms/3D_Models_Vault) repository for 3D models.
+
+#### Setup for KiCAD 9:
+
+1. Clone the 3D models repository:
+   ```bash
+   git clone https://github.com/ionutms/3D_Models_Vault.git
+   ```
+
+2. In KiCAD 9, add an environment variable:
+   - Variable name: `KICAD9_3D_MODELS_VAULT`
+   - Variable value: Full path to where you cloned the 3D_Models_Vault repository
 
 ## Usage
-1. Open KiCad
-2. File -> Open Project
-3. Navigate to the cloned repository
-4. Open the .kicad_pro file
+
+After setting up the dependencies, open the project in KiCAD 9 to access all features including the 3D models.
